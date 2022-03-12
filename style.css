@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(184, 241, 241);
+    padding: 10px;
+}
+main{
+    background-color: yellow;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+#fontSize{
+    padding: 3px 30px;
+    margin-right:50px;
+}
+#selectColor{
+    padding: 3px 30px;
+    margin-right:50px;
+}
+#reset-button{
+    background-color: white;
+    padding: 7px 15px;    
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+label{
+    font-size: 20px;
+}
